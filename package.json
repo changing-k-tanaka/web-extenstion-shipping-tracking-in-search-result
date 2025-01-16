@@ -1,8 +1,8 @@
 {
-  "name": "web-extenstion-shipping-tracking-in-search-result",
-  "description": "manifest.json description",
+  "name": "ぐぐったら配送会社追跡リンク表示",
+  "description": "12桁の数値の検索した場合、Google検索結果ページに各配送会社の荷物追跡ページへのリンクを追記するブラウザ拡張",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
